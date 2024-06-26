@@ -1,0 +1,8 @@
+venv/
+notebooks/
+.github/
+data/
+.ipynb_checkpoints/
+.idea/
+.models/
+dev/
